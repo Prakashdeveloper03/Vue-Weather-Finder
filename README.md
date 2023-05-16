@@ -25,7 +25,26 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
    2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
+## Prerequisites
+
+Before you can run this project, you need to have the following installed:
+
+- Node.js (version 18.0 or later)
+
 ## Project Setup
+
+To install this project, follow these steps:
+Clone the repository using `git`
+
+```
+git clone https://github.com/Prakashdeveloper03/Vue-Weather-Finder.git
+```
+
+Navigate to the root directory of the project
+
+```
+cd <directory_name>
+```
 
 ```sh
 pnpm install
